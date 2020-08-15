@@ -12,29 +12,29 @@ education:
     year: 2015
 email: "malou@leibniz-hki.de"
 interests:
-- Artificial Intelligence
+- xxx
 
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute (HKI)
   url: 
-role: 
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:malou@leibniz-hki.de'
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
+# - icon: twitter
+#   icon_pack: fab
+#   link: 
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: 
+# - icon: github
+#   icon_pack: fab
+#   link: 
 superuser: false
 title: Marie-Louise Körner
 user_groups:
 - PhD Student
 ---
 
-Malou is a PhD student in Fungal Informatics studying...
+Marie-Louise (Malou) Körner is a PhD student in Fungal Informatics.

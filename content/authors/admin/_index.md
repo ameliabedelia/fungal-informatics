@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Fungal pathogenesis, resistance, and genome stuff at. Always up for an adventure or bike ride.
 education:
   courses:
   - course: PhD in Microbiology and Immunology
@@ -13,9 +12,9 @@ education:
     year: 2006
 email: "amelia.barber@leibniz-hki.de"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Evolution of fungal pathogeniticy
+- Microbial ecology
+- Antifungal resistance
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute (HKI)
   url: "https://barber.science"
@@ -23,7 +22,7 @@ role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:amelia.barber@leibniz-hki.de'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frau_dr_barber
@@ -39,4 +38,4 @@ user_groups:
 - Group Leader
 ---
 
-Amelia Barber is a junior group leader in Fungal Informatics at the Leibniz Institute of Natural Product Research and Infection Biology-Hans Knöll Institute in Jena, Germany. Her research interests include...
+Amelia Barber is the fearless leader of junior research group Fungal Informatics at the Leibniz-HKI. When not in the office, you can probably find her riding a bike around greater Thuringia. 

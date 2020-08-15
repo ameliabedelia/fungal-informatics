@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Fungal Informatics"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "hero.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -41,8 +41,8 @@ hero_media = ""
 
 +++
 
-Junior research group led by **Amelia Barber** at the Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute.
+<small>Junior research group at the Leibniz–HKI</small>
 
-#### We study how ecological interactions shape human pathogenicity in fungi using computational and experimental approaches.
+#### We study how how ecological interactions shape fungal pathogenicity in humans using experimental and computational approaches.
 
 
