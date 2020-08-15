@@ -43,6 +43,6 @@ hero_media = "hero.png"
 
 <small>Junior research group at the Leibniz–HKI</small>
 
-#### We study how how ecological interactions shape fungal pathogenicity in humans using experimental and computational approaches.
+#### We study how ecological interactions shape fungal pathogenicity in humans using experimental and computational approaches.
 
 
