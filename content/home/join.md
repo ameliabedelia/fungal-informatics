@@ -53,7 +53,7 @@ subtitle = ""
 **Open positions, when available, will be listed here.** 
 PhD and postdoc positions are typically announced via the lab's [twitter](https://twitter.com/frau_dr_barber), as well as advertised through common academic job portals. 
 
-- *no positions currently available*
+- [PhD student in microbiology & bioinformatics](post/phd-position-sept-2020/)
 
 If you are a prospective members with independent funding or interested in applying for fellowships, please get in touch with your CV and a description of your interest in the group.
 

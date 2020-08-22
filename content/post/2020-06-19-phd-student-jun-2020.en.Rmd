@@ -1,5 +1,5 @@
 ---
-title: 'Open position: PhD student in bioinformatics'
+title: 'Open position: PhD student in bioinformatics [CLOSED]'
 author: ''
 date: '2020-06-19'
 slug: phd-student-jun-2020
@@ -16,6 +16,11 @@ image:
   preview_only: no
 projects: []
 ---
+
+### _This position has been filled_ ###
+
+***
+<br><br>
 
 ## Come join us in Jena!
 
