@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute (HKI)
   url: "https://barber.science"
-role: 
+role: "Group Leader"
 social:
 - icon: envelope
   icon_pack: fas
