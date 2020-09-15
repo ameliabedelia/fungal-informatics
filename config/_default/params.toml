@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Barber Lab"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Amelia Barber Lab at the Leibniz-HKI"
+description = "Barber Lab at the Leibniz-HKI. We study how environmental fungi cause human disease."
 
 ############################
 ## Site Features
