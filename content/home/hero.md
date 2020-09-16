@@ -17,11 +17,11 @@ hero_media = "hero.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = ""
+     color = "#2B313F"
   
   # Background gradient.
-  gradient_start = "#62589F"
-  gradient_end = "#2B313F"
+  # gradient_start = "#62589F"
+  # gradient_end = "#2B313F"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -41,8 +41,8 @@ hero_media = "hero.png"
 
 +++
 
-<small>Junior research group at the Leibniz–HKI</small>
+<small>Junior research group at the Leibniz–HKI</small> <br>
 
-#### We study how ecological interactions shape fungal pathogenicity in humans using experimental and computational approaches.
+### We study how ecological interactions shape fungal pathogenicity in humans using experimental and computational approaches.
 
 

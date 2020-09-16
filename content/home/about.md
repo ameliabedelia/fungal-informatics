@@ -24,9 +24,15 @@ Fungi are a diverse group of organisms that play critical roles in ecological re
 - The genomic and phenotypic relationship between environmental and clinical isolates of human fungal pathogens
 - Using comparative genomics and machine learning to understand fungal lifestyle and pathogenicity
 
-We are located at the **[Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute](https://www.leibniz-hki.de/en/home.html)** in Jena, Germany as part of the **[Systems Biology and Bioinformatics](https://www.leibniz-hki.de/en/systembiologie-und-bioinformatik.html)** department.  
-
 <br>
+
+We are located at the **[Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute](https://www.leibniz-hki.de/en/home.html)** in Jena, Germany as part of the **[Systems Biology and Bioinformatics](https://www.leibniz-hki.de/en/systembiologie-und-bioinformatik.html)** department.  <br>
+
+<a href="https://www.leibniz-hki.de/en/home.html/">
+<img src="/img/logo_hki_en.gif" alt="hki_logo" width="350px"/>
+</a>
+
+<br><br>
 
 The group is supported by the DFG Excellence Cluster **[Balance of the Microverse](https://www.microverse-cluster.de/en/)**.  <br>
 
@@ -34,5 +40,3 @@ The group is supported by the DFG Excellence Cluster **[Balance of the Microvers
 <a href="https://www.microverse-cluster.de/en/">
 <img src="/img/microverse_dfg.png" alt="microverse_logo" width="350px"/>
 </a>
-
-
