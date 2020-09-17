@@ -26,13 +26,8 @@ Fungi are a diverse group of organisms that play critical roles in ecological re
 
 <br>
 
-We are located at the **[Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute](https://www.leibniz-hki.de/en/home.html)** in Jena, Germany as part of the **[Systems Biology and Bioinformatics](https://www.leibniz-hki.de/en/systembiologie-und-bioinformatik.html)** department.  <br>
+We are located at the **[Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute](https://www.leibniz-hki.de/en/home.html)** in Jena, Germany as part of the **[Systems Biology and Bioinformatics](https://www.leibniz-hki.de/en/systembiologie-und-bioinformatik.html)** department.  <br><br>
 
-<a href="https://www.leibniz-hki.de/en/home.html/">
-<img src="/img/logo_hki_en.gif" alt="hki_logo" width="350px"/>
-</a>
-
-<br><br>
 
 The group is supported by the DFG Excellence Cluster **[Balance of the Microverse](https://www.microverse-cluster.de/en/)**.  <br>
 
