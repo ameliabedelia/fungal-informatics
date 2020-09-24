@@ -1,0 +1,28 @@
+---
+title: What are the dangers and challenges of fungal infections?
+author: ''
+date: '2020-09-24'
+slug: finar-video
+categories: []
+tags: []
+subtitle: ''
+summary: 'A video interview with Amelia Barber and Axel Brakhage.'
+authors: []
+lastmod: '2020-09-24T10:45:23+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Amelia Barber and [Axel Brakhage](https://www.leibniz-hki.de/en/institut-staff-details.html?member=1) (Director of the Leibniz-HKI, Professor at Uni Jena, Vice president of the DFG) discuss the difficulties in diagnosing and treating fungal infections in a video produced by **[InfectControl 2020](https://www.infectcontrol.de/)**. <br>
+
+```{r, echo=FALSE}
+blogdown::shortcode('youtube', 'wn1-8QV2jzE')
+```
+
+*Note: video is a mix of German and English, but the autocaptions are relatively accurate if you don't speak German).* 
+
+**[Link to the study referenced in the video](https://www.biorxiv.org/content/10.1101/2020.05.26.116616v2)** 
