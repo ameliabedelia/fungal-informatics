@@ -1,5 +1,5 @@
 ---
-title: "Open position: PhD student in microbiology & bioinformatics"
+title: "Open position: PhD student in microbiology & bioinformatics [CLOSED]"
 author: ''
 date: '2020-08-24'
 slug: phd-position-sept-2020
@@ -7,7 +7,7 @@ categories: []
 tags: 
     - jobs
 subtitle: ''
-summary: 'Application deadline September 30, 2020. <br><i>(click to learn more).</i>'
+summary: 'The application deadline has passed for this position.'
 authors: []
 featured: no
 image:
