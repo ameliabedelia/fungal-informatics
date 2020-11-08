@@ -1,0 +1,47 @@
+---
+title: 'Open position: PhD student in bioinformatics'
+author: ''
+date: '2020-11-08'
+slug: phd-student-nov-2020
+categories: []
+tags:
+  - jobs
+subtitle: ''
+summary: 'Application deadline December 3, 2020'
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+We are recruiting a PhD student in bioinformatics to investigate how environmental fungi acquire the ability to cause human disease using metagenomic, transcriptomic, and genomic approaches.
+
+More information about the project, our group, and what we offer can be found in the video below:
+
+```{r echo=FALSE}
+blogdown::shortcode('youtube', 'EcfDhdQCV_4')
+```
+<br>
+
+**The main tasks of this PhD project include:**  
+- Defining metagenomic communities and microbial interaction networks involving human-pathogenic
+fungi.  
+- Delineating shared and niche-specific response patterns among ecological and human-associated environments.  
+
+
+**The required qualifications are:**  
+- Master’s degree (or equivalent) in bioinformatics, computational biology, microbiology, biochemistry,
+computer science, or a related discipline.  
+- Knowledge and expertise in the analysis of biological high-throughput data.  
+- Knowledge in statistical methods in the context of biological systems.  
+- Experience with programming (Python, Perl, R, or C++).  
+- Very good communication skills in English.  
+
+**Applications can be made until December 3, 2020**.  
+
+Additional information, including how to apply, at:<br>
+<https://www.microverse-cluster.de/en/jobs.html> or <https://apply.jsmc.uni-jena.de/>
+<br>
