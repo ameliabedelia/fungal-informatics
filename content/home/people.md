@@ -14,10 +14,10 @@ subtitle = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Group Leader",
-                 "Postdoc",
-                 "PhD Student",
-                 "Masters Student",
-                 "Visitor",
+                 "Postdocs",
+                 "PhD Students",
+                 "Masters Students",
+                 "Visitors",
                  "Alumni"]
 
 [design]
@@ -54,3 +54,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+

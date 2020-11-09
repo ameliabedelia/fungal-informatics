@@ -35,7 +35,7 @@ social:
 superuser: false
 title: Marie-Louise Körner
 user_groups:
-- PhD Student
+- PhD Students
 ---
 
 Marie-Louise (Malou) Körner is a new doctoral researcher in bioinformatics. Her PhD project is centered on understanding how fungal-bacterial interactions in the environment shape human pathogenicity in fungi.  
