@@ -7,7 +7,7 @@ categories: []
 tags: 
     - jobs
 subtitle: ''
-summary: 'The application deadline has passed for this position.'
+summary: 'This position has been filled.'
 authors: []
 featured: no
 image:

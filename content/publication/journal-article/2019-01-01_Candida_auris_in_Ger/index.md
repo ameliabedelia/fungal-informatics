@@ -6,4 +6,6 @@ doi = "10.3201/eid2509.190262"
 url_pdf = "pdf/2019-EED-19-0262.pdf"
 abstract = "The emerging yeast *Candida auris* has disseminated worldwide. We report on 7 cases identified in Germany during 2015-2017. In 6 of these cases, *C. auris* was isolated from patients previously hospitalized abroad. Whole-genome sequencing and epidemiologic analyses revealed that all patients in Germany were infected with different strains."
 publication_types = ["2"]
+publication = "*Emerging Infectious Diseases*"
 +++
+
