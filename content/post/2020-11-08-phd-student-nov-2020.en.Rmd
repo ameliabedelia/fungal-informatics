@@ -7,7 +7,7 @@ categories: []
 tags:
   - jobs
 subtitle: ''
-summary: 'Application deadline December 3, 2020'
+summary: 'Application deadline extended (see post for how to apply).'
 authors: []
 featured: no
 image:
@@ -16,6 +16,12 @@ image:
   preview_only: no
 projects: []
 ---
+
+*Note: the official deadline for this position has passed, but applications can still be emailed directly to amelia.barber@leibniz-hki.de.* 
+
+*Interested candidates should submit a cover letter, CV, contact information for two references, and academic records as a single PDF.* 
+
+***
 
 We are recruiting a PhD student in bioinformatics to investigate how environmental fungi acquire the ability to cause human disease using metagenomic, transcriptomic, and genomic approaches.
 
