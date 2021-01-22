@@ -1,0 +1,32 @@
+---
+title: 'Medical Mycology Trainee Seminar Series - December 2020'
+author: ''
+date: '2021-01-22'
+slug: december-mmtss
+categories: []
+tags:
+  - talks
+subtitle: ''
+summary: 'New PIs Amelia Barber and José Vargas-Muñiz speak about their past and upcoming research in the inaugural Medical Mycology Trainee Seminar Series (video in post)'
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+The [Medical Mycology Trainee Seminar Series](https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/) is a newly launched platform that allows new faculty, postdocs, and PhD students a platform to present their work virtually to the global medical mycology community. Amelia Barber (Leibniz-HKI, Jena, Germany) and José Vargas-Muñiz (SIU, Carbondale, IL, USA) gave the inaugural lectures in what promises to be a great seminar series.  
+
+Many thanks to the organizers for the opportunity to present our work on ***Searching for the source: how environmental fungi become clinically resistant***.  
+
+Video of the presentations can be watched below.
+
+
+```{r echo=FALSE}
+blogdown::shortcode('youtube', 'Dm9yqtCkDw4?t=45')
+```
+<br>
+
+More info about the series (and the ability to submit an abstract to present your own work) at https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/
