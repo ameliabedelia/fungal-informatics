@@ -55,6 +55,7 @@ PhD and postdoc positions are typically announced via the lab's [twitter](https:
 
 - [PhD student in bioinformatics](https://jobs.hki-jena.de/jobs/Doctoral-Researcher-fdivm-in-Bioinformatics-de-j279.html)
 - [PhD student in microbial ecology](https://jobs.hki-jena.de/jobs/Doctoral-Researcher-fdivm-in-Microbial-Ecology-de-j280.html)
+- [Postdoc in antifungal resistance](/post/2021-02-10-halle-postdoc-position/)
 
 If you are a prospective members with independent funding or interested in applying for fellowships, please get in touch with your CV and a description of your interest in the group.
 
