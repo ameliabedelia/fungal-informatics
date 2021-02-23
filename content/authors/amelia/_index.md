@@ -47,8 +47,8 @@ user_groups:
 - Group Leader
 ---
 
-Amelia Barber is the fearless leader of junior research group Fungal Informatics. Her overarching research interest is understanding how environmental fungi cause human disease in the absense of direct evolutionary selection.  As part of this, she is interested in understanding how ecological interactions shape human pathogenicity in environmental fungi and the relationship between closely related pathogenic and non-pathogenic species. 
+Amelia Barber is the fearless leader of junior research group Fungal Informatics. Her overarching research interest is understanding how environmental fungi cause human disease in the absence of direct evolutionary selection. As part of this, she is interested in understanding how environmental fungi acquire antifungal resistance, how ecological interactions shape human pathogenicity in these organisms, and the relationship between closely related pathogenic and non-pathogenic species. 
 
-She earned her doctorate from the University of Utah studying host-pathogen interactions during *E. coli* infection before switching to the wonderful world of fungi. During her postdoctoral training at the Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute, she investigated the impact of azoles fungicides on the ecology and population structure *Aspergillus fumigatus* and the comparative and population genomics of pathogenic *Aspergillus* and *Candida* species.
+She earned her doctorate from the University of Utah studying host-pathogen interactions during *E. coli* infection before switching to the wonderful world of fungi. During her postdoctoral training at the Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute and University of Würzburg, she investigated the impact of azoles fungicides on the ecology and population structure *Aspergillus fumigatus* and the comparative and population genomics of pathogenic *Aspergillus* and *Candida* species.
 
-When not in the office, you can usually find her riding a bike around greater Thuringia. 
+When not in the office, you can usually find her riding a bike around greater Thuringia.  :bike: :bike: :bike:
