@@ -7,7 +7,7 @@ categories: []
 tags:   
     - jobs
 subtitle: ''
-summary: 'Applications due March 15'
+summary: '*The application deadline for these positions has passed*'
 authors: []
 lastmod: ''
 featured: no
