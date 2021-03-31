@@ -7,7 +7,7 @@ categories: []
 tags:   
     - jobs
 subtitle: ''
-summary: 'Join a collaborative project between Holger Deising (Uni-Halle), Oliver Kurzai (Uni-Wue) and our group at the Leibniz-HKI. Applications reviewed as they are received and will continue until the position is filled.'
+summary: '*This position has been filled.*'
 authors: []
 lastmod: ''
 featured: no
