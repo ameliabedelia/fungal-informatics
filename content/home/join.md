@@ -53,9 +53,7 @@ subtitle = ""
 **Open positions, when available, will be listed here.** 
 PhD and postdoc positions are typically announced via the lab's [twitter](https://twitter.com/frau_dr_barber), as well as advertised through common academic job portals. 
 
-- [PhD student in bioinformatics](https://jobs.hki-jena.de/jobs/Doctoral-Researcher-fdivm-in-Bioinformatics-de-j279.html) [closed]
-- [PhD student in microbial ecology](https://jobs.hki-jena.de/jobs/Doctoral-Researcher-fdivm-in-Microbial-Ecology-de-j280.html) [closed]
-- [Postdoc in antifungal resistance](/post/2021-02-10-halle-postdoc-position/)
+*No open positions at this time*
 
 If you are a prospective members with independent funding or interested in applying for fellowships, please get in touch with your CV and a description of your interest in the group.
 
