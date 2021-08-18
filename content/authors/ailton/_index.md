@@ -21,7 +21,7 @@ role: "PhD student"
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pending'
+  link: 'mailto:ailton.pereira@leibniz-hki.de'
 # - icon: cv
 #   icon_pack: ai
 #   link:

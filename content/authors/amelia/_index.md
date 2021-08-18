@@ -51,4 +51,6 @@ Amelia Barber is the fearless leader of junior research group Fungal Informatics
 
 She earned her doctorate from the University of Utah studying host-pathogen interactions during *E. coli* infection before switching to the wonderful world of fungi. During her postdoctoral training at the Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute and University of Würzburg, she investigated the impact of azoles fungicides on the ecology and population structure *Aspergillus fumigatus* and the comparative and population genomics of pathogenic *Aspergillus* and *Candida* species.
 
-When not in the office, you can usually find her riding a bike around greater Thuringia.  :bike: :bike: :bike:
+When not in the office, you can usually find her biking or hiking around greater Thuringia.  :bike: :athletic_shoe: :national_park:
+
+

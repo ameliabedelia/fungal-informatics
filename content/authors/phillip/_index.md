@@ -29,6 +29,6 @@ user_groups:
 - PhD Students
 ---
 
-The migratory Phillip Brassington is a newly-acquired doctoral researcher who will focus on investigating how environmental fungi acquire the ability to cause human infection using comparative and functional genomic approaches. 
+The migratory Phillip Brassington is a doctoral researcher focusing on how understanding mechanisms by which fungi develop resistance to antifungal drugs. 
 
 Native to New Zealand, he completed his biological bachelor's in California, and his biomedical master's in northern Germany. Between degrees, he spent two years at Hammersmith Medicines Research in London as a clinical studies and laboratory technician. When not at work, he is usually found reading, hiking in the hills, dabbling in storytelling, hobby coding, or occasionally enjoying a night in with friends.
