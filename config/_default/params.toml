@@ -93,7 +93,7 @@ phone = "+49  (0) 3641 532-1597"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Adolf-Reichwein-Str 10", city = "Jena", region = "", postcode = "07745", country = "Germany", country_code = "DE"}
+address = {street = "Adolf-Reichwein-Straße 23", city = "Jena", region = "", postcode = "07745", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

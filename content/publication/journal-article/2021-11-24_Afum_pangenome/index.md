@@ -1,0 +1,11 @@
++++
+title = "Aspergillus fumigatus pan-genome analysis identifies genetic variants associated with human infection"
+date = "2021-11-24"
+authors = ["Amelia E Barber", "Tongta Sae-Ong", "Kang Kang", "Bastian Seelbinder", "Jun Li", "Grit Walther", "Gianni Panagiotou", "Oliver Kurzai"]
+doi = "10.1038/s41564-021-00993-x"
+publication_types = ["2"]
+url_pdf = "pdf/2021-Barber-NatMicrobiol.pdf"
+publication = "*Nature Microbiology*"
+abstract = "*Aspergillus fumigatus* is an environmental saprobe and opportunistic human fungal pathogen. Despite an estimated annual occurrence of more than 300,000 cases of invasive disease worldwide, a comprehensive survey of the genomic diversity present in *A. fumigatus*—including the relationship between clinical and environmental isolates and how this genetic diversity contributes to virulence and antifungal drug resistance—has been lacking. In this study we define the pan-genome of *A. fumigatus* using a collection of 300 globally sampled genomes (83 clinical and 217 environmental isolates). We found that 7,563 of the 10,907 unique orthogroups (69%) are core and present in all isolates and the remaining 3,344 show presence/absence of variation, representing 16–22% of the genome of each isolate. Using this large genomic dataset of environmental and clinical samples, we found an enrichment for clinical isolates in a genetic cluster whose genomes also contain more accessory genes, including genes coding for transmembrane transporters and proteins with iron-binding activity, and genes involved in both carbohydrate and amino-acid metabolism. Finally, we leverage the power of genome-wide association studies to identify genomic variation associated with clinical isolates and triazole resistance as well as characterize genetic variation in known virulence factors. This characterization of the genomic diversity of *A. fumigatus* allows us to move away from a single reference genome that does not necessarily represent the species as a whole and better understand its pathogenic versatility, ultimately leading to better management of these infections."
+
++++
