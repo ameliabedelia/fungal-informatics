@@ -31,7 +31,7 @@ social:
   link: https://orcid.org/0000-0002-3399-1037
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/frau_dr_barber
+  link: https://twitter.com/AmeliaBarberPhD
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=COgbwJ4AAAAJ
