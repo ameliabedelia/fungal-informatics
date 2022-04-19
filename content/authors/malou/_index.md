@@ -1,15 +1,6 @@
 ---
 authors:
 - admin
-bio: Bioinformatics, microbial communities and interactions. Loves languages and is always looking for new people to convert into board game geeks.
-education:
-  courses:
-  - course: MS in Computer Science
-    institution: University of Lübeck
-    year: 2019
-  - course: BS in Molecular Life Science
-    institution: University of Lübeck
-    year: 2015
 role: 
 social:
 # - icon: envelope
